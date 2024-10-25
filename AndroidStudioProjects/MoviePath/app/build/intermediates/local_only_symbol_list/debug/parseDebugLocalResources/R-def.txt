@@ -1,0 +1,24 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable reel
+id content
+id list
+id main
+id movie_overview
+id movie_poster
+id movie_title
+id progress
+layout activity_main
+layout fragment_in_movie_list
+layout fragment_in_my_movie
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.MoviePath
+style Theme.MoviePath
+xml backup_rules
+xml data_extraction_rules
